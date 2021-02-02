@@ -1,0 +1,6 @@
+value,description
+orthophoto,"An orthophoto, orthophotograph or orthoimage is an aerial photograph or satellite imagery geometrically corrected (""orthorectified"") such that the scale is uniform: the photo or image follows a given map projection. (https://wikipedia.org/wiki/Orthophoto)"
+point cloud,"A point cloud is a set of data points in space. The points represent a 3D shape or object. Each point has its set of X, Y and Z coordinates. (https://wikipedia.org/wiki/Point_cloud)"
+video,"Digital video is an electronic representation of moving visual images (video) in the form of encoded digital data. This is in contrast to analog video, which represents moving visual images with analog signals. Digital video comprises a series of digital images displayed in rapid succession. (https://wikipedia.org/wiki/Digital_video)"
+profile,Profile graphs allow you to visualize elevation change over a continuous distance using 3D line geometry. (https://pro.arcgis.com/en/pro-app/latest/help/analysis/geoprocessing/charts/profile-graph.htm)
+DEM,"A digital elevation model (DEM) is a 3D computer graphics representation of elevation data to represent terrain, commonly of a planet (e.g. Earth), moon, or asteroid. (https://wikipedia.org/wiki/Digital_elevation_model)"
