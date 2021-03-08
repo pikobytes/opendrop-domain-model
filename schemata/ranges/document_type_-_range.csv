@@ -1,2 +1,3 @@
 value,description
-Product,"the output or outcome or result of a (geospatial) survey or recording, e.g., an orthophoto, a point cloud or a profile"
+Product,"the derived output or outcome or result of a (geospatial) survey or recording, i.e., processed raw data, e.g., an orthophoto, a point cloud or a profile"
+Raw Data,"the raw/ unprocessed output or outcome or result of a (geospatial) survey or recording, i.e., application of a sensor, e.g. a picture"
