@@ -1,3 +1,4 @@
 value,description
-Product,"the derived output or outcome or result of a (geospatial) survey or recording, i.e., processed raw data, e.g., an orthophoto, a point cloud or a profile"
-Raw Data,"the raw/ unprocessed output or outcome or result of a (geospatial) survey or recording, i.e., application of a sensor, e.g. a picture"
+Product,"the derived output or outcome or result of a (geospatial) survey or recording, i.e., processed raw data, e.g., an orthophoto, a point cloud or a profile; a (single) UAV Item"
+Raw Data,"the raw/ unprocessed output or outcome or result of a (geospatial) survey or recording, i.e., application of a sensor, e.g. a picture; a (single) UAV Item"
+Survey,a collection of one or more recordings (i.e. Raw Data) and / or the output or outcome or result of them (i.e. Product) that belong together with regard to content; one or more (drone) flights could be needed to collect the data for such an UAV Collection
